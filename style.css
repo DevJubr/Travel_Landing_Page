@@ -612,6 +612,10 @@ ul.ft_hd_itm_cn {
     width: 100%;
     flex-wrap: wrap;
   }
+  .place__img {
+  width: 100%;
+}
+
 }
 
 /* ------------------extra */
@@ -645,9 +649,6 @@ footer {
   letter-spacing: 1px;
   text-align: center;
   font-family: "Poppins", sans-serif;
-}
-.place__img {
-  width: 100%;
 }
 
 img {
